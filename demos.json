@@ -1,0 +1,6 @@
+[
+  { url: demo_host + "pcygni_cropped.spx",    label: "Multiple profile fit" },
+  { url: demo_host + "multi-comp-OI-fit.spx", label: "5 comp. fit" },
+  { url: demo_host + "ALBd040193.f.fits",     label: "Load FITS file" },
+  { url: demo_host + "as20jq.spx",            label: "" },
+]
